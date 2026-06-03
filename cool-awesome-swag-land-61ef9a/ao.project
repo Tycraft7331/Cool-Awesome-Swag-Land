@@ -1,0 +1,10 @@
+{
+    csl: true
+    projects:
+    [
+        {
+            name: "Cool Awesome Swag Land"
+            id: "6a207a102a2a5e0e6d61ef9a"
+        }
+    ]
+}
